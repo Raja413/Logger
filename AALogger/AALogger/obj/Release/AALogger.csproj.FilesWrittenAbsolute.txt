@@ -1,0 +1,4 @@
+/Users/rajareddyporeddy/GitRoot/Stash/Xamarin/Samples/AALogger/AALogger/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/rajareddyporeddy/GitRoot/Stash/Xamarin/Samples/AALogger/AALogger/bin/Release/Xamarin.Forms.Core.dll
+/Users/rajareddyporeddy/GitRoot/Stash/Xamarin/Samples/AALogger/AALogger/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/rajareddyporeddy/GitRoot/Stash/Xamarin/Samples/AALogger/AALogger/bin/Release/Xamarin.Forms.Platform.dll
